@@ -1,0 +1,5 @@
+D:\Repositorios\godot-3d-mannequin\.mono\temp\bin\Tools\3D Third-Person Open Mannequin.dll
+D:\Repositorios\godot-3d-mannequin\.mono\temp\bin\Tools\3D Third-Person Open Mannequin.pdb
+D:\Repositorios\godot-3d-mannequin\.mono\temp\obj\Tools\3D Third-Person Open Mannequin.csprojAssemblyReference.cache
+D:\Repositorios\godot-3d-mannequin\.mono\temp\obj\Tools\3D Third-Person Open Mannequin.dll
+D:\Repositorios\godot-3d-mannequin\.mono\temp\obj\Tools\3D Third-Person Open Mannequin.pdb
